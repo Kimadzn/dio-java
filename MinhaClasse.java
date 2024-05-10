@@ -1,8 +1,12 @@
 public class MinhaClasse {
     public static void main (String [] args) {
 
-        System.out.println("Teste");
+        String meuNome = "Arthur";
+        int teste = 4;
+
+        System.out.println(meuNome);
     }
 
 }
+
 
