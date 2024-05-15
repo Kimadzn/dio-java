@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "BoletimEstudantil",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "CalculaMedia",
+            "request": "launch",
+            "mainClass": "CalculaMedia",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "Concat",
+            "request": "launch",
+            "mainClass": "Concat",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "Deb",
+            "request": "launch",
+            "mainClass": "Deb",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "Ternario",
+            "request": "launch",
+            "mainClass": "Ternario",
+            "projectName": "dio-java_10feb5e6"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "dio-java_10feb5e6"
+        }
+    ]
+}
