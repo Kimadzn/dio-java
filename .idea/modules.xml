@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafio/Desafio.iml" filepath="$PROJECT_DIR$/Desafio/Desafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudoJavaInicial/EstudoJavaInicial.iml" filepath="$PROJECT_DIR$/EstudoJavaInicial/EstudoJavaInicial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-java.iml" filepath="$PROJECT_DIR$/dio-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudoJavaInicial/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/EstudoJavaInicial/sistema-smart-tv/sistema-smart-tv.iml" />
+    </modules>
+  </component>
+</project>
