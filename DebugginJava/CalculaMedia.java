@@ -18,6 +18,8 @@ public class CalculaMedia {
             int Nota = scanner.nextInt();
             soma += Nota;
 
+
+ System.out.println("|" + soma);
         }
 
         return soma/alunos.length;
